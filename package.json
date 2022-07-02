@@ -1,0 +1,18 @@
+{
+  "name": "parser-email",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node puppeteer.js"
+  },
+  "author": "Alena Martynova",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "0.0.1-security",
+    "puppeteer": "^15.1.1"
+  }
+}
